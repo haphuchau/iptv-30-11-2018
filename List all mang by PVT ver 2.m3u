@@ -1,0 +1,29 @@
+﻿#EXTM3U
+#EXTINF:0,VTV1 (SD 480p)
+https://hjyjrvmlsk.vcdn.com.vn/hls/elgfjdh/index.m3u8
+#EXTINF:0,VTV3 (SD 480p)
+https://hjyjrvmlsk.vcdn.com.vn/hls/idmwifi/index.m3u8
+#EXTINF:0,VTV5 (SD 480p)
+https://hjyjrvmlsk.vcdn.com.vn/hls/ira1wlr/index.m3u8
+#EXTINF:0,VTV5 TAY NGUYEN (SD 480p)
+https://live.vtvdigital.vn/hls/a570bd2eeb265b629da2899a4108c614/1544010994757/live/_definst_/vtv5tn-mid.m3u8
+#EXTINF:0,VTV6 (HD 720p)
+https://live.vtvdigital.vn/hls/1d55078c86350e386ee20870e6b85523/1543726053797/live/_definst_/vtv6-high.m3u8
+#EXTINF:0,VTV6 (FPT Play - 720p)
+https://livecdn.fptplay.net/hdevent/vtv6hd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,VTV6 (SD 480p) (Dự phòng)
+https://hjyjrvmlsk.vcdn.com.vn/hls/fjg6388/index.m3u8
+#EXTINF:0,VTC3 (SD 406p)
+http://live.cdn.mobifonetv.vn/motv2/myvtc3_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:0,VTC3 (FPT Play - HD 720p)
+https://livecdn.fptplay.net/hdevent/vtc3hd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,VTC1 (SD 450p)
+http://cdn1.tivi8k.com:1935/live/VTC1A_H_97507667c2705b0c6d91ba23c259e48bfuk/chunklist_w220348548.m3u8
+#EXTINF:0,VTC14 (SD 480p)
+http://cdn.tivi8k.com:1935/VTC/smil:VTC14.smil/chunklist_w385384271_b1264000_slVIE.m3u8
+#EXTINF:0,iTV - SCTV20 (HD 720p)
+http://kenhitv.vn/ITV_Stream/itv_web_500k.stream.mp4/chunklist_w243163417.m3u8
+#EXTINF:0,VOV Vietnam Journey (Full HD 1080p)
+http://vncdn.mediatech.vn/vovlive/tv1live.m3u8
+
+
